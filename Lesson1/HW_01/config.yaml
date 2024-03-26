@@ -1,0 +1,8 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+url: https://test-stand.gb.ru/gateway/posts
+username: "Testovich13"
+password: "41502dcd87"
+title: "QA-инженер"
+description: "Средний размер оплаты труда"
+content: "181 000 рублей в месяц."
